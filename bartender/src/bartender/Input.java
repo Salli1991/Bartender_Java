@@ -31,5 +31,5 @@ public class Input extends Template{
 		if(level==2)
 			System.out.println("Mischung " + this.getIngredients()[stage]); 
 	}
-
+//ladida
 }
