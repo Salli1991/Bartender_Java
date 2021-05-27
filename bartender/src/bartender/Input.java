@@ -17,11 +17,10 @@ public class Input extends Template{
 	public void checkInput(String button) {
 		if(button.equals("up")) 
 			level++;
-		else if(button.equals("down")) //dasdasd
+		else if(button.equals("down"))
 			level--;
 		else if(button.equals("left"))
 			stage--;
-		else if(button.equals("right"))
 			stage++;
 	}
 	public void ausgabe() {
