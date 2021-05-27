@@ -38,8 +38,7 @@ public class Main {
 			if(x)
 				user.push(ingredients, ingredientNames, "rfid", "Hans"); //Muss noch händisch programmiert werden
 		}
-		
-
+					Wer das liest ist doof
 	}
 
 }
