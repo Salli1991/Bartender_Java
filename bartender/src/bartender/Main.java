@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		//Physische Inputs
+		//Jup definitiv!
 		int available = 1; //Platzhalter
 		int rfid = 0;	   //Platzhalter	
 		//Schnittstellenvariablen
