@@ -17,7 +17,7 @@ public class Input extends Template{
 	public void checkInput(String button) {
 		if(button.equals("up")) 
 			level++;
-		else if(button.equals("down"))
+		else if(button.equals("down")) //dasdasd
 			level--;
 		else if(button.equals("left"))
 			stage--;
