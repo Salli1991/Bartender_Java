@@ -32,4 +32,5 @@ public class Input extends Template{
 			System.out.println("Mischung " + this.getIngredients()[stage]); 
 	}
 //ladida
+//ludiduuuuu
 }
